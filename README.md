@@ -1,4 +1,4 @@
-![Front-End Developer](https://github.com/CoderTofu/CoderTofu/blob/main/banner.jpg)
+![Front-End Developer](https://github.com/CoderTofu/CoderTofu/blob/main/banner.webp)
 
 ### Hi there 👋, CoderTofu
 
